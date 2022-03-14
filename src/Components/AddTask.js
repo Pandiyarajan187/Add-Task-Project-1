@@ -36,7 +36,8 @@ const AddTask = ({ onAdd }) => {
 
 
       <div className="form-control">
-      <label> Add Date</label>
+      <label> Add your date
+        Date</label>
       <TextField style={{
       margin: 'auto',
       display: 'block',
