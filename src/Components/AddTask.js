@@ -24,7 +24,11 @@ const AddTask = ({ onAdd }) => {
   return (
     <form className="add-form" onSubmit={onSubmit}>
       <div className="form-control" >
+<<<<<<< HEAD
         <label>Add Your Task </label>
+=======
+        <label>Create Task</label>
+>>>>>>> development
         <input
           type="text"
           placeholder="Add Task"
