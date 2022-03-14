@@ -69,7 +69,7 @@ const AddTask = ({ onAdd }) => {
       </div> */}
       
       <div className="form-control-check" >
-        <label style={{ padding: '5px' }}>Set Reminder</label>
+        <label style={{ padding: '5px' }}>Reminder</label>
         <input
           type="checkbox"
           checked={reminder}
